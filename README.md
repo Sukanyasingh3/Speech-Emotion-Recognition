@@ -45,11 +45,11 @@ The dataset is a multiclass classification problem, where the goal is to classif
 ## Model Architecture
 The deep learning model used for Speech Emotion Recognition is a sequential model with the following layers:
 
--LSTM layers for sequence modeling
+ - LSTM layers for sequence modeling
 
--Dense layers for classification
+ - Dense layers for classification
 
--Dropout layers for regularization
+ - Dropout layers for regularization
 
 This architecture is designed to capture both spatial and temporal features in the audio data.
 
