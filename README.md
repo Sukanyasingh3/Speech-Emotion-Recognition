@@ -7,38 +7,38 @@ Speech Emotion Recognition is a vital area in the field of natural language proc
 ## Libraries
 To use this project, you will need to have the following libraries installed:
 
--librosa
+ - librosa
 
--seaborn
+ - seaborn
 
--matplotlib
+ - matplotlib
 
--scikit-learn
+ - scikit-learn
 
--pandas
+ - pandas
 
--IPython
+ - IPython
 
--numpy
+- numpy
 
--keras
+ - keras
 
 ## Dataset
 The dataset used for this project is the TESS(Toronto emotional speech set). It can be found on Kaggle at the following link: [TESS Dataset](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess). It contains speech recordings labeled with emotions. The emotions and their distribution in the dataset are as follows:
 
--Fear: 400 samples
+ - Fear: 400 samples
 
--Angry: 400 samples
+ - Angry: 400 samples
 
--Happy: 400 samples
+ - Happy: 400 samples
 
--Sad: 400 samples
+ - Sad: 400 samples
 
--Disgust: 400 samples
+ - Disgust: 400 samples
 
--Neutral: 400 samples
+ - Neutral: 400 samples
 
--Pleasant Surprise: 400 samples
+ - Pleasant Surprise: 400 samples
 
 The dataset is a multiclass classification problem, where the goal is to classify speech recordings into one of these seven emotion categories.
 
@@ -56,12 +56,12 @@ This architecture is designed to capture both spatial and temporal features in t
 ## Training
 The model was trained on the provided dataset, and the training results are as follows:
 
--Training accuracy: 98%
+ - Training accuracy: 98%
 
--Test accuracy: 96%
+ - Test accuracy: 96%
 
--Training loss: 0.06
+ - Training loss: 0.06
 
--Test loss: 0.1
+ - Test loss: 0.1
 
 The model is capable of accurately recognizing emotions in speech recordings.
