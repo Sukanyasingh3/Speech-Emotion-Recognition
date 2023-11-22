@@ -55,13 +55,18 @@ This architecture is designed to capture both spatial and temporal features in t
 
 ## Training
 The model was trained on the provided dataset, and the training results are as follows:
-
+### Accuracy
  - Training accuracy: 98%
 
  - Test accuracy: 96%
 
+ ![Accuracy](https://github.com/Sukanyasingh3/Speech-Emotion-Recognition/assets/113462236/848a44a0-80d6-4d93-92fe-5459805e7be9)
+ 
+### Loss
  - Training loss: 0.06
 
  - Test loss: 0.1
+
+![Loss](https://github.com/Sukanyasingh3/Speech-Emotion-Recognition/assets/113462236/ad7c6fd3-1160-4781-adf0-59ffe020e8ca)
 
 The model is capable of accurately recognizing emotions in speech recordings.
