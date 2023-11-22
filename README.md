@@ -70,3 +70,14 @@ The model was trained on the provided dataset, and the training results are as f
 ![Loss](https://github.com/Sukanyasingh3/Speech-Emotion-Recognition/assets/113462236/ad7c6fd3-1160-4781-adf0-59ffe020e8ca)
 
 The model is capable of accurately recognizing emotions in speech recordings.
+
+# Contributing
+
+![gif3](https://github.com/Sukanyasingh3/Speech-Emotion-Recognition/assets/113462236/4599d2da-9ef7-4ad9-8614-5d80817c5f57)
+
+
+If you would like to contribute to the project, follow these steps:
+
+ - Fork the repository.
+ - Create a new branch for your feature or bug fix.
+ - Make your changes and submit a pull request.
