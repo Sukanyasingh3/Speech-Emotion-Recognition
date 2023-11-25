@@ -1,5 +1,8 @@
-# Speech Emotion Recognition using LSTM
+<div align='center'>
+ 
+# EmotionIntel: A Deep Learning-Based Speech Emotion Recognition Framework
 This repository contains a deep learning model for Speech Emotion Recognition (SER) using LSTM layers. The model is designed to classify speech recordings into various emotions, including fear, angry, happy, sad, disgust, neutral, and pleasant surprise. The project utilizes Natural Language Processing (NLP) techniques and deep learning to achieve this classification.
+</div>
 
 ## Overview
 Speech Emotion Recognition is a vital area in the field of natural language processing and human-computer interaction. This project demonstrates how to build a deep learning model to recognize emotions from speech recordings. The model employs LSTM layers for sequence modeling, allowing it to capture temporal dependencies in the audio data.
