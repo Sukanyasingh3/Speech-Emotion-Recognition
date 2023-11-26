@@ -1,7 +1,10 @@
 <div align='center'>
  
 # A Deep Learning-Based Speech Emotion Recognition Framework
-This repository contains a deep learning model for Speech Emotion Recognition (SER) using LSTM layers. The model is designed to classify speech recordings into various emotions, including fear, angry, happy, sad, disgust, neutral, and pleasant surprise. The project utilizes Natural Language Processing (NLP) techniques and deep learning to achieve this classification.
+
+![Screenshot (186)](https://github.com/Sukanyasingh3/Speech-Emotion-Recognition/assets/113462236/8ae653a4-c0e6-415f-bb2a-00453fc35067)
+
+## This repository contains a deep learning model for Speech Emotion Recognition (SER) using LSTM layers. The model is designed to classify speech recordings into various emotions, including fear, angry, happy, sad, disgust, neutral, and pleasant surprise. The project utilizes Natural Language Processing (NLP) techniques and deep learning to achieve this classification.
 </div>
 
 ## Overview
