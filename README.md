@@ -10,6 +10,18 @@
 ## Overview
 Speech Emotion Recognition is a vital area in the field of natural language processing and human-computer interaction. This project demonstrates how to build a deep learning model to recognize emotions from speech recordings. The model employs LSTM layers for sequence modeling, allowing it to capture temporal dependencies in the audio data.
 
+- Code:
+The Code folder contains the complete implementation of the deep learning model using LSTM layers. The code is organized and well-commented to facilitate understanding and modification. The main script or notebook in this directory serves as the entry point for understanding the model architecture, training process, and prediction.
+
+- Dataset
+The Dataset folder holds the speech recordings dataset used to train and evaluate the emotion recognition model. The dataset is structured to include labeled examples for various emotions such as fear, anger, happiness, sadness, disgust, neutral, and pleasant surprise. If you wish to replicate or extend the project, you can explore the dataset and ensure proper attribution as per the dataset's licensing terms.
+
+- Model
+In the Model folder, you'll find the pre-trained model weights and architecture. This allows you to use the trained model for prediction without having to retrain it from scratch. If you decide to fine-tune or modify the model, the code in the Code folder will guide you through the process.
+
+- Result
+The Result folder contains the output and evaluation results from training the model. This includes metrics, graphs, and any other relevant information that provides insights into the model's performance. You can use this information to assess the effectiveness of the implemented Speech Emotion Recognition system.
+
 ## Libraries
 To use this project, you will need to have the following libraries installed:
 
